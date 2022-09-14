@@ -1,0 +1,127 @@
+[
+  {
+    "street": "Rose of sharon",
+
+    "rooms": 1,
+    "ratingAverage": 4.5,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 2,
+    "price": 30000,
+    "ratingsQuantity": 60
+  },
+  {
+    "street": "Balm of gilead",
+
+    "rooms": 2,
+    "ratingAverage": 4.7,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 5,
+    "price": 70000,
+    "ratingsQuantity": 80
+  },
+  {
+    "street": "Balm of gilead",
+    "rooms": 2,
+    "ratingAverage": 4.6,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 5,
+    "price": 65000,
+    "ratingsQuantity": 70
+  },
+  {
+    "street": "lily of sharon",
+    "rooms": 2,
+    "ratingAverage": 4.5,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 4,
+    "price": 65000,
+    "ratingsQuantity": 70
+  },
+  {
+    "street": "Rose of sharon",
+    "rooms": 2,
+    "ratingAverage": 4.7,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 5,
+    "price": 70000,
+    "ratingsQuantity": 80
+  },
+  {
+    "street": "Balm of gilead",
+    "rooms": 2,
+    "ratingAverage": 4.7,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 5,
+    "price": 65000,
+    "ratingsQuantity": 80
+  },
+  {
+    "street": "lily of sharon",
+
+    "rooms": 1,
+    "ratingAverage": 4.5,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 2,
+    "price": 40000,
+    "ratingsQuantity": 80
+  },
+  {
+    "street": "Balm of gilead",
+
+    "rooms": 1,
+    "ratingAverage": 4.5,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 2,
+    "price": 20000,
+    "ratingsQuantity": 50
+  },
+  {
+    "street": "Rose of sharon",
+    "rooms": 2,
+    "ratingAverage": 4.7,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 5,
+    "price": 60000,
+    "ratingsQuantity": 60
+  },
+  {
+    "street": "Rose of sharon",
+    "rooms": 2,
+    "ratingAverage": 4.7,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 5,
+    "price": 60000,
+    "ratingsQuantity": 60
+  },
+  {
+    "street": "Rose of sharon",
+
+    "rooms": 2,
+    "ratingAverage": 4.7,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 5,
+    "price": 60000,
+    "ratingsQuantity": 60
+  },
+  {
+    "street": "lily of sharon",
+    "rooms": 2,
+    "ratingAverage": 4.7,
+    "comment": "make research for beautiful house",
+    "description": "Its the first house located in the street which is located in the midst of other house, Its one of the best house in the area with one of the best average rating in the street",
+    "maxNoOfPeople": 5,
+    "price": 60000,
+    "ratingsQuantity": 60
+  }
+]
